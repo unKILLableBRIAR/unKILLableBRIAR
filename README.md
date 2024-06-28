@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/jh_ock00/" target="_blank"><img src="https://img.shields.io/badge/jh_ock00-FF69B4?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/jh_ock00/" target="_blank"><img src="https://img.shields.io/badge/jh_ock00-FF69B4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unKILLableBRIAR&show_icons=true&theme=radical)
 
