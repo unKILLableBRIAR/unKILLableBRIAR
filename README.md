@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 It's me.
 
 <a href="https://www.instagram.com/jh_ok00/" target="_blank"><img src="https://img.shields.io/badge/jh__ok00-FF69B4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&width=435&lines=ETA:+when+hedgehogs+fly(i.e.,+probably never...))](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unKILLableBRIAR&show_icons=true&theme=radical)
 
