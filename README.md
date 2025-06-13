@@ -1,5 +1,4 @@
-### Hi there 👋 It's me.
-
+![header](https://capsule-render.vercel.app/api?type=speech&color=0:4169e1,100:cc8899&height=300&section=header&text=Hi%20there👋%20It's%20me!&fontSize=90&fontColor=f2f2f2)
 <a href="https://www.instagram.com/jh_ok00/" target="_blank"><img src="https://img.shields.io/badge/jh__ok00-FF69B4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&width=435&lines=ETA:+when+hedgehogs+fly(i.e.,+probably never...))](https://git.io/typing-svg)
